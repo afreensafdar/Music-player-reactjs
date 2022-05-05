@@ -4,17 +4,17 @@ This is a music app made in react. It is the one stop music destination you wish
 
 ## Table of Content 
 
-* [Introduction](#Introduction)
-* [Description](#Description)
+* [Introduction](#introduction)
+* [Description](#description)
 * [Demo](demo)
 * [Screenshots](screenshots)
-* [Compentencies](#Compentencies)
-* [Technologies](#Technologies)
-* [Attributions](Attributions)
-* [Setup](Setup)
-* [Features](#Features)
-* [Stretch_Goals](#Stretch-Goals)
-* [Contact](#Contact)
+* [Compentencies](#compentencies)
+* [Technologies](#technologies)
+* [Attributions](attributions)
+* [Setup](setup)
+* [Features](#features)
+* [Stretch_Goals](#stretch-goals)
+* [Contact](#contact)
 
 ## Introduction 
 This is a music app made in react. It is the one stop music destination you wished for.
@@ -49,13 +49,7 @@ most played musicn
 
 
 ## Screenshots
-![5.png](images/form1.png)
-
-![1.png](images/form2.png)
-
-![2.png](images/form3.png)
-
-![3.png](images/form4.png)
+![5.png](images/pic1.png)
 
 ---
 
