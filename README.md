@@ -37,19 +37,22 @@ most played musicn
 
 <div align="center">
 
-![Home Page](/images/home.jpeg)
+![Home Page](./images/music.gif)
 
-    A music app made with the help of React.js.
+ A music app made with the help of React.js.
     
 </div>
 
-- ![Demo]()
 
 ---
 
 
 ## Screenshots
-![5.png](images/pic1.png)
+![5.png](images/home.jpeg)
+
+
+![5.png](images/pic4.jpg)
+
 
 ---
 
