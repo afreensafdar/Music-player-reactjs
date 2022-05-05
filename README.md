@@ -43,7 +43,7 @@ most played musicn
     
 </div>
 
-- ![Demo](images/form1.png)
+- ![Demo](images/home.jpeg)
 
 ---
 
