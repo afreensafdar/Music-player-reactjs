@@ -27,7 +27,7 @@ This is a music app made in react. It is the one stop music destination you wish
 - A user can search for the music from search box.
 - A user can login into the music app and add the favorite music.
 - A user can view the most played music.
-most played musicn
+most played music
 
 ## Demo
 
@@ -37,18 +37,20 @@ most played musicn
 
 <div align="center">
 
-![Home Page](https://drive.google.com/uc?id=1ayxhKGDHtysZPMqti6k4ZY072nm3I3MZ)
+![Home Page](./images/music.gif)
 
     A music app made with the help of React.js.
     
 </div>
 
-- ![Demo]()
 
 ---
 
 
 ## Screenshots
+![5.png](images/home.jpeg)
+
+
 ![5.png](images/pic1.png)
 
 ---
