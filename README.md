@@ -48,13 +48,20 @@ most played music
 
 
 ## Screenshots
-![5.png](images/home.jpeg)
 
 
-![5.png](images/pic4.jpg)
+
+![1.png](images/home.jpeg)
 
 
-![5.png](images/pic5.jpg)
+![2.png](images/pic4.jpg)
+
+![3.png](images/pic5.jpg)
+
+
+
+
+
 ---
 
 ## Compentencies
