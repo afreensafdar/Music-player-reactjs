@@ -50,14 +50,21 @@ most played music
 ## Screenshots
 
 
+* Home Page:
 
 ![1.png](images/home.jpeg)
 
+* Music Playlist Page:
 
 ![2.png](images/pic4.jpg)
 
+* Profile Page:
+
 ![3.png](images/pic5.jpg)
 
+* Search Page:
+
+![3.png](images/search.jpg)
 
 
 
